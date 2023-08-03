@@ -6,9 +6,9 @@
 
 Here's a glimpse of the life_notes application:
 
-<div style="text-align:center;">
+<p align="center">
   <img src="LifeNotes.jpg" alt="LifeNotes" width="75%">
-</div>
+</p>
 
 ## Installation
 
