@@ -1,0 +1,7 @@
+You can write diverse notes here.
+
+Ex:
+Draft of text
+...
+
+You don't need to save all the time with the save button; the application will automatically save when you close it and when you switch panels.

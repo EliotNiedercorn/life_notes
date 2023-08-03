@@ -1,0 +1,9 @@
+You can write diverse ideas here.
+
+Ex:
+Make an organizational app
+...
+
+This note is the root note; the notebook will always load this one first. If you want to change this, you have to modify lines 143 and 146 in the code.
+
+The + button allows you to add a note to the notebook.
